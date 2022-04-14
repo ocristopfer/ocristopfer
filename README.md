@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ocristopfer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ocristopfer/ocristopfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sou ocristopfer :D
+👨🏽‍💻 Desenvolvedor.<br />
+<div align="center">
+  <a href="https://github.com/ocristopfer">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ocristopfer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!--<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydAl&layout=compact&langs_count=15&theme=dracula"/>-->
+</div>
