@@ -19,7 +19,9 @@ jobs:
       - name: Render the card
         run: python3 scripts/stats_card.py ocristopfer assets
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # STATS_TOKEN (optional, a personal token) is the only way to count pull requests in private
+          # repositories: the workflow's own token sees public ones only. Without it the card still renders.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
       # The card has no date on it, so a day with no new numbers produces no commit.
       # A push made with GITHUB_TOKEN does not start another run, so this cannot loop.
       - name: Commit if the numbers changed
