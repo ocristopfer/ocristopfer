@@ -3,6 +3,11 @@
 Developer from Brazil. I like self-hosting, homelabs and making game servers
 run where they were never meant to run.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="GitHub stats for ocristopfer: stars, contributions, commits, pull requests, top languages and weekly activity" src="assets/stats-light.svg">
+</picture>
+
 ### What I'm working on
 
 - **[game-server-deploy](https://github.com/ocristopfer/game-server-deploy)**:

@@ -1,0 +1,32 @@
+name: Stats card
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/stats.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Render the card
+        run: python3 scripts/stats_card.py ocristopfer assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # The card has no date on it, so a day with no new numbers produces no commit.
+      # A push made with GITHUB_TOKEN does not start another run, so this cannot loop.
+      - name: Commit if the numbers changed
+        run: |
+          git add assets
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898233+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update stats card"
+          git push
