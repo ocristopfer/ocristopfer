@@ -4,9 +4,9 @@
 <text x="776" y="40" font-size="12" text-anchor="end" fill="#8b949e">@ocristopfer · contributions and commits: last 12 months</text>
 <text x="24.0" y="100" font-size="28" font-weight="600" fill="#e6edf3">78</text>
 <text x="24.0" y="122" font-size="12" fill="#8b949e">Stars</text>
-<text x="149.3" y="100" font-size="28" font-weight="600" fill="#e6edf3">472</text>
+<text x="149.3" y="100" font-size="28" font-weight="600" fill="#e6edf3">476</text>
 <text x="149.3" y="122" font-size="12" fill="#8b949e">Contributions</text>
-<text x="274.7" y="100" font-size="28" font-weight="600" fill="#e6edf3">282</text>
+<text x="274.7" y="100" font-size="28" font-weight="600" fill="#e6edf3">286</text>
 <text x="274.7" y="122" font-size="12" fill="#8b949e">Commits</text>
 <text x="400.0" y="100" font-size="28" font-weight="600" fill="#e6edf3">35</text>
 <text x="400.0" y="122" font-size="12" fill="#8b949e">Pull requests</text>
@@ -18,23 +18,23 @@
 <text x="24" y="174" font-size="12" font-weight="600" fill="#8b949e">Top languages</text>
 <clipPath id="bar"><rect x="24" y="184" width="356" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="24.00" y="184" width="259.28" height="8" fill="#3572A5"/>
-<rect x="282.78" y="184" width="38.07" height="8" fill="#89e051"/>
-<rect x="320.35" y="184" width="19.32" height="8" fill="#e34c26"/>
-<rect x="339.17" y="184" width="13.92" height="8" fill="#012456"/>
-<rect x="352.59" y="184" width="10.88" height="8" fill="#f1e05a"/>
-<rect x="362.97" y="184" width="17.53" height="8" fill="#8b949e"/>
+<rect x="24.00" y="184" width="259.35" height="8" fill="#3572A5"/>
+<rect x="282.85" y="184" width="37.87" height="8" fill="#89e051"/>
+<rect x="320.22" y="184" width="19.44" height="8" fill="#e34c26"/>
+<rect x="339.16" y="184" width="13.83" height="8" fill="#012456"/>
+<rect x="352.49" y="184" width="11.10" height="8" fill="#f1e05a"/>
+<rect x="363.09" y="184" width="17.41" height="8" fill="#8b949e"/>
 </g>
 <circle cx="29" cy="210" r="5" fill="#3572A5" stroke="#8b949e" stroke-opacity="0.5"/>
 <text x="39" y="214" font-size="12" fill="#e6edf3">Python <tspan fill="#8b949e">72.7%</tspan></text>
 <circle cx="151" cy="210" r="5" fill="#89e051" stroke="#8b949e" stroke-opacity="0.5"/>
-<text x="161" y="214" font-size="12" fill="#e6edf3">Shell <tspan fill="#8b949e">10.6%</tspan></text>
+<text x="161" y="214" font-size="12" fill="#e6edf3">Shell <tspan fill="#8b949e">10.5%</tspan></text>
 <circle cx="273" cy="210" r="5" fill="#e34c26" stroke="#8b949e" stroke-opacity="0.5"/>
 <text x="283" y="214" font-size="12" fill="#e6edf3">HTML <tspan fill="#8b949e">5.3%</tspan></text>
 <circle cx="29" cy="232" r="5" fill="#012456" stroke="#8b949e" stroke-opacity="0.5"/>
-<text x="39" y="236" font-size="12" fill="#e6edf3">PowerShell <tspan fill="#8b949e">3.8%</tspan></text>
+<text x="39" y="236" font-size="12" fill="#e6edf3">PowerShell <tspan fill="#8b949e">3.7%</tspan></text>
 <circle cx="151" cy="232" r="5" fill="#f1e05a" stroke="#8b949e" stroke-opacity="0.5"/>
-<text x="161" y="236" font-size="12" fill="#e6edf3">JavaScript <tspan fill="#8b949e">2.9%</tspan></text>
+<text x="161" y="236" font-size="12" fill="#e6edf3">JavaScript <tspan fill="#8b949e">3.0%</tspan></text>
 <circle cx="273" cy="232" r="5" fill="#8b949e" stroke="#8b949e" stroke-opacity="0.5"/>
 <text x="283" y="236" font-size="12" fill="#e6edf3">Other <tspan fill="#8b949e">4.8%</tspan></text>
 <text x="420" y="174" font-size="12" font-weight="600" fill="#8b949e">Contributions per week</text>
@@ -90,5 +90,5 @@
 <rect x="749.13" y="230.42" width="4.70" height="9.58" rx="1" fill="#4493f8" fill-opacity="0.51"/>
 <rect x="755.85" y="186.00" width="4.70" height="54.00" rx="1" fill="#4493f8" fill-opacity="1.00"/>
 <rect x="762.57" y="212.47" width="4.70" height="27.53" rx="1" fill="#4493f8" fill-opacity="0.71"/>
-<rect x="769.28" y="196.08" width="4.70" height="43.92" rx="1" fill="#4493f8" fill-opacity="0.89"/>
+<rect x="769.28" y="195.05" width="4.70" height="44.95" rx="1" fill="#4493f8" fill-opacity="0.90"/>
 </svg>
