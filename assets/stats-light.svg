@@ -12,7 +12,7 @@
 <text x="400.0" y="122" font-size="12" fill="#59636e">Pull requests</text>
 <text x="525.3" y="100" font-size="28" font-weight="600" fill="#1f2328">9</text>
 <text x="525.3" y="122" font-size="12" fill="#59636e">Repositories</text>
-<text x="650.7" y="100" font-size="28" font-weight="600" fill="#1f2328">24</text>
+<text x="650.7" y="100" font-size="28" font-weight="600" fill="#1f2328">23</text>
 <text x="650.7" y="122" font-size="12" fill="#59636e">Followers</text>
 <line x1="24" y1="146" x2="776" y2="146" stroke="#d0d7de"/>
 <text x="24" y="174" font-size="12" font-weight="600" fill="#59636e">Top languages</text>
