@@ -4,7 +4,7 @@
 <text x="776" y="40" font-size="12" text-anchor="end" fill="#59636e">@ocristopfer · contributions and commits: last 12 months</text>
 <text x="24.0" y="100" font-size="28" font-weight="600" fill="#1f2328">82</text>
 <text x="24.0" y="122" font-size="12" fill="#59636e">Stars</text>
-<text x="149.3" y="100" font-size="28" font-weight="600" fill="#1f2328">485</text>
+<text x="149.3" y="100" font-size="28" font-weight="600" fill="#1f2328">401</text>
 <text x="149.3" y="122" font-size="12" fill="#59636e">Contributions</text>
 <text x="274.7" y="100" font-size="28" font-weight="600" fill="#1f2328">287</text>
 <text x="274.7" y="122" font-size="12" fill="#59636e">Commits</text>
@@ -12,7 +12,7 @@
 <text x="400.0" y="122" font-size="12" fill="#59636e">Pull requests</text>
 <text x="525.3" y="100" font-size="28" font-weight="600" fill="#1f2328">9</text>
 <text x="525.3" y="122" font-size="12" fill="#59636e">Repositories</text>
-<text x="650.7" y="100" font-size="28" font-weight="600" fill="#1f2328">23</text>
+<text x="650.7" y="100" font-size="28" font-weight="600" fill="#1f2328">22</text>
 <text x="650.7" y="122" font-size="12" fill="#59636e">Followers</text>
 <line x1="24" y1="146" x2="776" y2="146" stroke="#d0d7de"/>
 <text x="24" y="174" font-size="12" font-weight="600" fill="#59636e">Top languages</text>
@@ -66,18 +66,18 @@
 <rect x="587.92" y="213.32" width="4.70" height="26.68" rx="1" fill="#0969da" fill-opacity="0.70"/>
 <rect x="594.64" y="228.26" width="4.70" height="11.74" rx="1" fill="#0969da" fill-opacity="0.53"/>
 <rect x="601.36" y="238.00" width="4.70" height="2.00" rx="1" fill="#0969da" fill-opacity="0.25"/>
-<rect x="608.08" y="228.26" width="4.70" height="11.74" rx="1" fill="#0969da" fill-opacity="0.53"/>
-<rect x="614.79" y="218.57" width="4.70" height="21.43" rx="1" fill="#0969da" fill-opacity="0.64"/>
-<rect x="621.51" y="219.11" width="4.70" height="20.89" rx="1" fill="#0969da" fill-opacity="0.63"/>
-<rect x="628.23" y="216.04" width="4.70" height="23.96" rx="1" fill="#0969da" fill-opacity="0.67"/>
-<rect x="634.94" y="228.26" width="4.70" height="11.74" rx="1" fill="#0969da" fill-opacity="0.53"/>
+<rect x="608.08" y="238.00" width="4.70" height="2.00" rx="1" fill="#0969da" fill-opacity="0.25"/>
+<rect x="614.79" y="238.00" width="4.70" height="2.00" rx="1" fill="#0969da" fill-opacity="0.25"/>
+<rect x="621.51" y="238.00" width="4.70" height="2.00" rx="1" fill="#0969da" fill-opacity="0.25"/>
+<rect x="628.23" y="238.00" width="4.70" height="2.00" rx="1" fill="#0969da" fill-opacity="0.25"/>
+<rect x="634.94" y="238.00" width="4.70" height="2.00" rx="1" fill="#0969da" fill-opacity="0.25"/>
 <rect x="641.66" y="238.00" width="4.70" height="2.00" rx="1" fill="#0969da" fill-opacity="0.25"/>
-<rect x="648.38" y="235.21" width="4.70" height="4.79" rx="1" fill="#0969da" fill-opacity="0.45"/>
+<rect x="648.38" y="238.00" width="4.70" height="2.00" rx="1" fill="#0969da" fill-opacity="0.25"/>
 <rect x="655.09" y="238.00" width="4.70" height="2.00" rx="1" fill="#0969da" fill-opacity="0.25"/>
 <rect x="661.81" y="238.00" width="4.70" height="2.00" rx="1" fill="#0969da" fill-opacity="0.25"/>
-<rect x="668.53" y="235.21" width="4.70" height="4.79" rx="1" fill="#0969da" fill-opacity="0.45"/>
+<rect x="668.53" y="238.00" width="4.70" height="2.00" rx="1" fill="#0969da" fill-opacity="0.25"/>
 <rect x="675.25" y="238.00" width="4.70" height="2.00" rx="1" fill="#0969da" fill-opacity="0.25"/>
-<rect x="681.96" y="226.45" width="4.70" height="13.55" rx="1" fill="#0969da" fill-opacity="0.55"/>
+<rect x="681.96" y="233.22" width="4.70" height="6.78" rx="1" fill="#0969da" fill-opacity="0.48"/>
 <rect x="688.68" y="231.70" width="4.70" height="8.30" rx="1" fill="#0969da" fill-opacity="0.49"/>
 <rect x="695.40" y="215.57" width="4.70" height="24.43" rx="1" fill="#0969da" fill-opacity="0.67"/>
 <rect x="702.11" y="224.11" width="4.70" height="15.89" rx="1" fill="#0969da" fill-opacity="0.58"/>
